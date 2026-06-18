@@ -1,0 +1,13 @@
+AI Tool Used: ChatGPT
+
+Purpose:
+ChatGPT was used to help plan the structure of the project, explain Docker and Kubernetes concepts, and generate example code and Kubernetes manifests.
+
+Main Assistance:
+- Suggested using Node.js and Express for a simple Web API.
+- Helped prepare the Dockerfile.
+- Helped prepare Kubernetes YAML files for Deployment, Service, ConfigMap, Secret, and HPA.
+- Helped write README documentation.
+
+Student Work:
+The student reviewed, organized, tested, and submitted the project files.

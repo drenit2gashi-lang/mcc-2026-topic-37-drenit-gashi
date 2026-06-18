@@ -1,0 +1,13 @@
+{
+  "name": "kubernetes-mini-lab-api",
+  "version": "1.0.0",
+  "description": "A small Web API deployed with Docker and Kubernetes manifests.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
